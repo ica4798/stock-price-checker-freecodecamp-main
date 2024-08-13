@@ -19,7 +19,6 @@
     "mongoose": "^7.5.2",
     "node-fetch": "^2.7.0",
     "nodemon": "^3.0.1"
-    "mongodb": "^3.5.4",
   },
   "repository": {
     "type": "git",
